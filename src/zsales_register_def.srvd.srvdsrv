@@ -1,0 +1,4 @@
+@EndUserText.label: 'ZSALES_REGISTER_DEF'
+define service ZSALES_REGISTER_DEF {
+  expose ZSALES_REGISTER_CUBE;
+}
